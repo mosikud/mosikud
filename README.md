@@ -11,7 +11,7 @@ Currently learning to contribute to open source projects.
 
 Currently learning to contribute to open source projects.
 
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me anytime
 <a href="https://www.linkedin.com/in/sikku/"><img src="https://img.shields.io/badge/-Sikku-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sikandar.udupi@gmail.com"><img src="https://img.shields.io/badge/-sikandar.udupi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/mosikud/"><img src="https://img.shields.io/badge/-Mosikud-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
